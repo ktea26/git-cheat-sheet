@@ -10,3 +10,5 @@
 ##### git log  
 Indicates the the history of commits in the current branch and returns the HEAD which points to the branch on which we are
 
+##### git checkout -b new-branch-name
+Creates anew branch, and moves there
