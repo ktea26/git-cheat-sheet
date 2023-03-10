@@ -34,3 +34,6 @@ Shows the updates of the default remote repository
 
 #### git pull
 Applies the updates from remote to local repo
+
+#### pull request creation
+create a pull request through web portal
